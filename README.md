@@ -1,8 +1,19 @@
-# Bad
-def f(x, y):
-    return x * 0.3 + y * 0.4
+# Project Title
 
-# Good
-def weighted_score(quiz_avg, assignment_avg):
-    """Calculate weighted course score: quiz 30%, assignment 40%."""
-    return quiz_avg * 0.30 + assignment_avg * 0.40
+## What it does
+One paragraph describing what your program does and what problem it solves.
+
+## How to run it
+1. Open the notebook in Google Colab
+2. Upload the dataset file if required (Option A projects)
+3. Run all cells from top to bottom
+
+## Skills demonstrated
+- [List the Python concepts from the course you used]
+- e.g. Pandas DataFrames, matplotlib visualization, groupby analysis
+
+## Key finding (Option A) / What it produces (Options B, C, D)
+One sentence describing the most important result or output.
+
+## Author
+Your name · Your university · NVB Summer 2026
